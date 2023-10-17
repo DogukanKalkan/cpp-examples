@@ -8,6 +8,6 @@
 /build/
 
 # Ignore local configuration files
-/.vscode/
+.vscode/
 .idea/
 
