@@ -1,0 +1,13 @@
+# Ignore object files and executables
+*.o
+*.out
+*.exe
+
+# Ignore compiled binaries
+/bin/
+/build/
+
+# Ignore local configuration files
+/.vscode/
+.idea/
+
